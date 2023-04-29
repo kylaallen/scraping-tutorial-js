@@ -6,7 +6,7 @@ The tutorial I chose is a web scraping tutorial that demonstrates how to extract
 
 ### Built With
 * [BeautifulSoup][BeatifulSoup-url]
-* [Sublime][Sublime-url]
+* [Sublime Text][Sublime-url]
 * [Python][Python-url]
 * [Link to YouTube Tutorial][link-url]
 
